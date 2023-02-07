@@ -7,7 +7,7 @@ Finite es una criptomoneda libre y descentralizada con respaldo de valor conform
 > Finite es un proyecto Open Source. Consideramos la transparencia y apertura de todas las etapas del proyecto un pilar fundamental. Es por esto, que utilizamos @Github en forma publica para desarrollar todas nuestras estrategias, RoadMap y tecnologias.
 
 
-+  [Marketing Strategy (ChatGPT)](http://handlebarsjs.com/)
++  [Marketing Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/MARKETING_STRATEGY.md)
 ## Marketing Strategy (ChatGPT)
 1.  **Foco en la misión**: Destacar cómo la criptomoneda está respaldada por el valor generado por el acervo de la humanidad y cómo eso la hace diferente de otras criptomonedas.
 >El enfoque en la misión de la criptomoneda es clave para diferenciarse de otras criptomonedas en el mercado. La idea aquí es resaltar cómo el respaldo en el valor generado por la humanidad es único y brinda una mayor seguridad y estabilidad a la criptomoneda. Se pueden crear mensajes de marketing que destaquen las características distintivas de la criptomoneda y su respaldo en el valor generado por la humanidad
