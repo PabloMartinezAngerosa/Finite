@@ -6,12 +6,13 @@ Finite es una criptomoneda libre y descentralizada con respaldo de valor conform
 ## Secciones
 > Finite es un proyecto Open Source. Consideramos la transparencia y apertura de todas las etapas del proyecto un pilar fundamental. Es por esto, que utilizamos @Github en forma publica para desarrollar todas nuestras estrategias, RoadMap y tecnologias.
 
++ [White Paper (original first edition PDF)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/white_paper/Finite_White_Paper_original.pdf)
 
 +  [Marketing Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/MARKETING_STRATEGY.md)
 
 + [WebSite Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/WEBSITE_STRATEGY.md)
 
-+ [White Paper (original first version)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/white_paper/Finite_White_Paper_original.pdf)
+
 
 
 
