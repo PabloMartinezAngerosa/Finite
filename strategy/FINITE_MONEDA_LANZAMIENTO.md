@@ -10,7 +10,7 @@ Antes de lanzar una criptomoneda, es importante tener en cuenta lo siguiente:
     
 3.  **Regulaciones legales**: Investiga las leyes y regulaciones que afectan a las criptomonedas en tu país y asegúrate de cumplir con ellas.
     
-4.  **Comunidad y marketing**: Crea una **comunidad sólida** y haz una campaña de marketing efectiva para atraer inversores y adopción.
+4.  **Comunidad y marketing**: Crea una **comunidad sólida** y haz una **campaña de marketing efectiva** para atraer inversores y adopción.
     
 5.  **Seguridad**: Asegúrate de que la criptomoneda y las transacciones sean seguras y protegidas contra posibles ataques.
     
