@@ -8,6 +8,10 @@ Finite es una criptomoneda libre y descentralizada con respaldo de valor conform
 
 + [White Paper (original first edition PDF)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/white_paper/Finite_White_Paper_original.pdf)
 
++ [Coleccion NFT lanzamiento Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/NFT_COLECCION_LANZAMIENTO_STRATEGY.md)
+
++ [Moneda lanzamiento Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/FINITE_MONEDA_LANZAMIENTO.md)
+
 +  [Marketing Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/MARKETING_STRATEGY.md)
 
 + [WebSite Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/WEBSITE_STRATEGY.md)
