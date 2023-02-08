@@ -11,6 +11,9 @@ Finite es una criptomoneda libre y descentralizada con respaldo de valor conform
 
 + [WebSite Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/WEBSITE_STRATEGY.md)
 
++ [White Paper (original first version)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/WEBSITE_STRATEGY.md)
+
+
 
 
 
