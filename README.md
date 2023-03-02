@@ -1,10 +1,16 @@
 # Welcome to Finite! 
 >  La criptomoneda que cambiará el juego con el respaldo de valor generado por computadoras cuánticas
 
-Finite es una criptomoneda libre y descentralizada con respaldo de valor conformado por el acervo de la humanidad. Basada en la **computacion cuantica**, inteligencia artificial y la cadena de bloques, Finite en su **mision** pretende ser el alicate que desmantele el alambre de puas que se ha tejido alrededor de la propiedad intelectual y en su **vision** pretende ser protector y testigo de nuestro legado como humanidad. 
+¡Bienvenido al mundo de Finite! Somos una criptomoneda única y revolucionaria respaldada por el acervo de la humanidad. Con la tecnología de la computación cuántica, la inteligencia artificial y la cadena de bloques, estamos aquí para desmantelar las barreras en torno a la propiedad intelectual.
+
+Nuestra misión es ser el alicate que desmantele el alambre de púas que se ha tejido alrededor de la propiedad intelectual, y nuestra visión es ser el protector y testigo de nuestro legado como humanidad.
+
+
+Finite es una criptomoneda libre y descentralizada, lo que significa que no estamos controlados por ninguna entidad central. Esto nos da la libertad de operar de manera transparente y segura, sin interferencias de terceros.
+
+Únete al movimiento de la criptomoneda libre y descentralizada con Finite. Descubre cómo podemos proteger y preservar nuestro legado como humanidad mientras desmantelamos las barreras que limitan nuestra creatividad e innovación. ¡Únete a Finite hoy mismo!
 
 ## Secciones
-> Finite es un proyecto Open Source. Consideramos la transparencia y apertura de todas las etapas del proyecto un pilar fundamental. Es por esto, que utilizamos @Github en forma publica para desarrollar todas nuestras estrategias, RoadMap y tecnologias.
 
 + [White Paper (original first edition PDF)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/white_paper/Finite_White_Paper_original.pdf)
 
