@@ -22,5 +22,7 @@ Finite es una criptomoneda libre y descentralizada, lo que significa que no esta
 
 + [WebSite Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/WEBSITE_STRATEGY.md)
 
++ [Marketing & Technology Strategy Roadmap  (Long-Tearm) (ChatGPT)](https://infograph.venngage.com/ps/rnHVYWMggmg/dark-quarterly-marketing-strategy-roadmap)
+
 
 
