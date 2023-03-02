@@ -1,14 +1,14 @@
 # Welcome to Finite! 
 >  La criptomoneda que cambiará el juego con el respaldo de valor generado por computadoras cuánticas
 
-¡Bienvenido al mundo de Finite! Somos una criptomoneda única y revolucionaria respaldada por el acervo de la humanidad. Con la tecnología de la computación cuántica, la inteligencia artificial y la cadena de bloques, estamos aquí para desmantelar las barreras en torno a la propiedad intelectual.
+¡Bienvenido al mundo de **Finite**! Somos una criptomoneda única y revolucionaria respaldada por el acervo de la humanidad. Con la tecnología de la computación cuántica, la inteligencia artificial y la cadena de bloques, estamos aquí para desmantelar las barreras en torno a la propiedad intelectual.
 
-Nuestra misión es ser el alicate que desmantele el alambre de púas que se ha tejido alrededor de la propiedad intelectual, y nuestra visión es ser el protector y testigo de nuestro legado como humanidad.
+Nuestra **misión** es ser el alicate que desmantele el alambre de púas que se ha tejido alrededor de la propiedad intelectual, y nuestra **visión** es ser el protector y testigo de nuestro legado como humanidad.
 
 
 Finite es una criptomoneda libre y descentralizada, lo que significa que no estamos controlados por ninguna entidad central. Esto nos da la libertad de operar de manera transparente y segura , sin interferencias de terceros, en todas nuestras etapas y procesos.
 
-Únete al movimiento de la criptomoneda libre y descentralizada con Finite. Descubre cómo podemos proteger y preservar nuestro legado como humanidad mientras desmantelamos las barreras que limitan nuestra creatividad e innovación. ¡Únete a Finite hoy mismo!
+Únete al movimiento de la criptomoneda libre y descentralizada con **Finite**. Descubre cómo podemos proteger y preservar nuestro legado como humanidad mientras desmantelamos las barreras que limitan nuestra creatividad e innovación. ¡Únete a **Finite** hoy mismo!
 
 ## Secciones
 
