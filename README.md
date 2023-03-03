@@ -14,6 +14,8 @@ Finite es una criptomoneda libre y descentralizada, lo que significa que no esta
 
 + [White Paper (original first edition PDF)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/white_paper/Finite_White_Paper_original.pdf)
 
++ [Light Paper (ChatGPT)](https://infograph.venngage.com/ps/iUTHU7o8t8w/dark-information-technology-white-paper)
+
 + [Coleccion NFT lanzamiento Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/NFT_COLECCION_LANZAMIENTO_STRATEGY.md)
 
 + [Moneda lanzamiento Strategy (ChatGPT)](https://github.com/PabloMartinezAngerosa/Finite/blob/main/strategy/FINITE_MONEDA_LANZAMIENTO.md)
